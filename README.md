@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 #### 最新开源
 
-<a href="https://github.com/fangsong0517/Mynotes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Mynotes&theme=radical" />
+<a href="https://github.com/fangsong0517/Chat-Room">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Chat-Room&theme=radical" />
 </a>
 
 <a href="https://github.com/fangsong0517/Hython">
