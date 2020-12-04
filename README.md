@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/fangsong0517/Gomoku">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Gomoku&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Gomoku&theme=radical" />
 </a>
