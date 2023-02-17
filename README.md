@@ -39,7 +39,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/fangsong0517/Gomoku">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Gomoku&theme=radical" />
 </a>
-
-<a href="https://github.com/fangsong0517/UDP-Football-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=UDP-Football-Game&theme=radical" />
-</a>
