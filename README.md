@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ### 你好，我是 fangsong
 
 <hr></hr>
@@ -33,8 +34,26 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Chat-Room&theme=radical" />
 </a>
 
-<!--
 <a href="https://github.com/fangsong0517/Hython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Hython&theme=radical" />
 </a>
 -->
+
+
+<a href="https://github.com/fangsong0517">
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=fangsong0517&column=7&theme=onedark"/>
+  </p>
+
+</a>
+
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/fangsong0517?template=terminal" />
+</a>
+
+# fangsong 🌝
+
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=fangsong0517&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangsong0517&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Chat-Room&theme=dark">
