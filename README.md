@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=fangsong0517&theme=vue-dark&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangsong0517&theme=vue-dark&layout=compact">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Chat-Room&theme=dark">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=fangsong0517&repo=Fs-Cs-Notes&theme=dark">
+
